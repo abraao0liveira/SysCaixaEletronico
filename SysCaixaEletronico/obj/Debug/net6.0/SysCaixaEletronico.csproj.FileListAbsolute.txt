@@ -1,0 +1,15 @@
+/home/abraao0liveira/RiderProjects/SysCaixaEletronico/SysCaixaEletronico/bin/Debug/net6.0/SysCaixaEletronico
+/home/abraao0liveira/RiderProjects/SysCaixaEletronico/SysCaixaEletronico/bin/Debug/net6.0/SysCaixaEletronico.deps.json
+/home/abraao0liveira/RiderProjects/SysCaixaEletronico/SysCaixaEletronico/bin/Debug/net6.0/SysCaixaEletronico.runtimeconfig.json
+/home/abraao0liveira/RiderProjects/SysCaixaEletronico/SysCaixaEletronico/bin/Debug/net6.0/SysCaixaEletronico.dll
+/home/abraao0liveira/RiderProjects/SysCaixaEletronico/SysCaixaEletronico/bin/Debug/net6.0/SysCaixaEletronico.pdb
+/home/abraao0liveira/RiderProjects/SysCaixaEletronico/SysCaixaEletronico/obj/Debug/net6.0/SysCaixaEletronico.csproj.AssemblyReference.cache
+/home/abraao0liveira/RiderProjects/SysCaixaEletronico/SysCaixaEletronico/obj/Debug/net6.0/SysCaixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao0liveira/RiderProjects/SysCaixaEletronico/SysCaixaEletronico/obj/Debug/net6.0/SysCaixaEletronico.AssemblyInfoInputs.cache
+/home/abraao0liveira/RiderProjects/SysCaixaEletronico/SysCaixaEletronico/obj/Debug/net6.0/SysCaixaEletronico.AssemblyInfo.cs
+/home/abraao0liveira/RiderProjects/SysCaixaEletronico/SysCaixaEletronico/obj/Debug/net6.0/SysCaixaEletronico.csproj.CoreCompileInputs.cache
+/home/abraao0liveira/RiderProjects/SysCaixaEletronico/SysCaixaEletronico/obj/Debug/net6.0/SysCaixaEletronico.dll
+/home/abraao0liveira/RiderProjects/SysCaixaEletronico/SysCaixaEletronico/obj/Debug/net6.0/refint/SysCaixaEletronico.dll
+/home/abraao0liveira/RiderProjects/SysCaixaEletronico/SysCaixaEletronico/obj/Debug/net6.0/SysCaixaEletronico.pdb
+/home/abraao0liveira/RiderProjects/SysCaixaEletronico/SysCaixaEletronico/obj/Debug/net6.0/SysCaixaEletronico.genruntimeconfig.cache
+/home/abraao0liveira/RiderProjects/SysCaixaEletronico/SysCaixaEletronico/obj/Debug/net6.0/ref/SysCaixaEletronico.dll
